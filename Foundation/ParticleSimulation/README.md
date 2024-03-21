@@ -1,0 +1,1 @@
+This folder contains the code for a particle simulation in C++ using CUDA.
